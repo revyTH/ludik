@@ -1,11 +1,12 @@
 # ludik
 
+[https://ludik.xyz/music](https://ludik.xyz/music)
+
 Experimental webgl based website for my musical project [LUDIK](https://ludik.herokuapp.com).
 Listen on [Spotify](https://open.spotify.com/artist/0lMpvELTTsVuCMeAQWuzpN?si=6dWnTikrTvS5DcjY-2MKgg). 
 
-## Thanks to
+## Powered by
 
-* [Three.js forum](https://discourse.threejs.org/)
 * [Three.js](https://threejs.org/)
 * [Node.js](https://nodejs.org/en/)
 * [Vue.js](https://vuejs.org/)
@@ -18,3 +19,4 @@ Listen on [Spotify](https://open.spotify.com/artist/0lMpvELTTsVuCMeAQWuzpN?si=6d
 * [Postprocessing](https://github.com/vanruesc/postprocessing)
 * [Three Nebula](https://github.com/creativelifeform/three-nebula)
 
+Also a special thanks to [Three.js forum](https://discourse.threejs.org/)!
